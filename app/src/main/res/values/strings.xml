@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flitto Bears Search</string>
+    <string name="bookmarks_remove_image">북마크가 해제 되었습니다.</string>
+    <string name="bookmarks_add_image">!나중에 꼭 마셔야징!</string>
+    <string name="search_paging_last_page_message">검색 결과를 모두 확인했습니다.</string>
+    <string name="search_paging_network_message">네트워크 연결을 확인해주세요.</string>
+    <string name="search_paging_no_search_message">검색 결과가 없습니다.</string>
+    <string name="search_paging_error_message">오류가 발생했습니다.</string>
+    <string name="search_guide_message">원하시는 맥주를 검색해 보세요!</string>
+</resources>
